@@ -10,7 +10,7 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
-   - name: Koyeb
+  - name: Koyeb
      url: https://living-costanza-vinxqo-b35b7828.koyeb.app
 
 status-website:
