@@ -11,7 +11,7 @@ sites:
       - 200
       - 401
   - name: Koyeb
-     url: https://living-costanza-vinxqo-b35b7828.koyeb.app
+    url: https://living-costanza-vinxqo-b35b7828.koyeb.app
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
