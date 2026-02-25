@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Openlist
-    url: https://m-gic-openlist.hf.space
+    url: https://ma-ic-openlist.hf.space
   - name: Firefox
     url: https://m-gic-firefox.hf.space/
     expectedStatusCodes:
