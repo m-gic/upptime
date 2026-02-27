@@ -13,7 +13,7 @@ sites:
   - name: Koyeb
     url: https://living-costanza-vinxqo-b35b7828.koyeb.app
   - name: Uptime-Kuma
-    url: https://m-gic-uptime.hf.space/
+    url: https://ma-ic-uptime.hf.space
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
