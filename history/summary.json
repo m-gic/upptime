@@ -40,7 +40,7 @@
     "url": "https://living-costanza-vinxqo-b35b7828.koyeb.app",
     "icon": "https://icons.duckduckgo.com/ip3/living-costanza-vinxqo-b35b7828.koyeb.app.ico",
     "slug": "koyeb",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 2334,
     "timeDay": 1954,
-    "timeWeek": 2258,
+    "timeWeek": 2304,
     "timeMonth": 2431,
     "timeYear": 2334,
     "dailyMinutesDown": {}
