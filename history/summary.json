@@ -13,7 +13,7 @@
     "time": 403,
     "timeDay": 194,
     "timeWeek": 256,
-    "timeMonth": 226,
+    "timeMonth": 231,
     "timeYear": 403,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 199,
     "timeDay": 156,
     "timeWeek": 251,
-    "timeMonth": 201,
+    "timeMonth": 206,
     "timeYear": 199,
     "dailyMinutesDown": {}
   },
@@ -40,16 +40,16 @@
     "url": "https://living-costanza-vinxqo-b35b7828.koyeb.app",
     "icon": "https://icons.duckduckgo.com/ip3/living-costanza-vinxqo-b35b7828.koyeb.app.ico",
     "slug": "koyeb",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2843,
-    "timeDay": 3212,
+    "timeDay": 3387,
     "timeWeek": 2924,
-    "timeMonth": 2931,
+    "timeMonth": 2937,
     "timeYear": 2843,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 203,
     "timeDay": 244,
     "timeWeek": 247,
-    "timeMonth": 200,
+    "timeMonth": 204,
     "timeYear": 203,
     "dailyMinutesDown": {}
   }
